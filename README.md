@@ -11,3 +11,8 @@
 
 <img width="1279" height="941" alt="Screenshot 2026-07-01 at 1 43 27 PM" src="https://github.com/user-attachments/assets/3f523571-e340-4cba-9491-faa6f76b22ec" />
 
+# week2-day1
+
+<img width="1436" height="968" alt="Screenshot 2026-07-02 at 9 20 59 AM" src="https://github.com/user-attachments/assets/2b6dea98-6d07-4720-ae0e-b4abf8aada57" />
+
+
